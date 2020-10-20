@@ -8,8 +8,8 @@ import io.vexelabs.bitbuilder.llvm.executionengine.callbacks.MemoryManagerDestro
 import io.vexelabs.bitbuilder.llvm.executionengine.callbacks.MemoryManagerDestroyCallback
 import io.vexelabs.bitbuilder.llvm.executionengine.callbacks.MemoryManagerFinalizeMemoryBase
 import io.vexelabs.bitbuilder.llvm.executionengine.callbacks.MemoryManagerFinalizeMemoryCallback
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
 import org.bytedeco.javacpp.Pointer
 import org.bytedeco.llvm.LLVM.LLVMMCJITMemoryManagerRef
 import org.bytedeco.llvm.global.LLVM

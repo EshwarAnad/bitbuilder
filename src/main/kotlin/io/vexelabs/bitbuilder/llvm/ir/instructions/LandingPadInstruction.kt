@@ -1,7 +1,7 @@
 package io.vexelabs.bitbuilder.llvm.ir.instructions
 
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
-import io.vexelabs.bitbuilder.llvm.internal.util.toLLVMBool
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.util.toLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.Instruction
 import io.vexelabs.bitbuilder.llvm.ir.Value
 import org.bytedeco.llvm.LLVM.LLVMValueRef

@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.target
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
 import org.bytedeco.llvm.LLVM.LLVMTargetLibraryInfoRef
 
 public class TargetLibraryInfo internal constructor() :

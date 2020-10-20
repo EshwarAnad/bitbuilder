@@ -1,9 +1,9 @@
 package io.vexelabs.bitbuilder.llvm.ir
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
-import io.vexelabs.bitbuilder.llvm.internal.util.toLLVMBool
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.util.toLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.callbacks.DiagnosticHandlerBase
 import io.vexelabs.bitbuilder.llvm.ir.callbacks.DiagnosticHandlerCallback
 import io.vexelabs.bitbuilder.llvm.ir.callbacks.YieldCallback

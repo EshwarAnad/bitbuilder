@@ -1,4 +1,4 @@
-package io.vexelabs.bitbuilder.llvm.internal.util
+package io.vexelabs.bitbuilder.internal.util
 
 import org.bytedeco.javacpp.Pointer
 import org.bytedeco.javacpp.PointerPointer

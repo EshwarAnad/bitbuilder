@@ -1,8 +1,8 @@
 package io.vexelabs.bitbuilder.llvm.target
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ForeignEnum
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.contracts.ForeignEnum
 import io.vexelabs.bitbuilder.llvm.ir.Context
 import io.vexelabs.bitbuilder.llvm.ir.Type
 import io.vexelabs.bitbuilder.llvm.ir.types.IntType

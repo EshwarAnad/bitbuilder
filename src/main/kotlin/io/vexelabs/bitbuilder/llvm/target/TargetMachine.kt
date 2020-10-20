@@ -1,8 +1,8 @@
 package io.vexelabs.bitbuilder.llvm.target
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
-import io.vexelabs.bitbuilder.llvm.internal.util.toLLVMBool
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.util.toLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.Module
 import io.vexelabs.bitbuilder.llvm.support.MemoryBuffer
 import org.bytedeco.javacpp.BytePointer

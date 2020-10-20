@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.rtti
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
 import io.vexelabs.bitbuilder.llvm.ir.Instruction
 import io.vexelabs.bitbuilder.llvm.ir.User
 import io.vexelabs.bitbuilder.llvm.ir.instructions.AllocaInstruction

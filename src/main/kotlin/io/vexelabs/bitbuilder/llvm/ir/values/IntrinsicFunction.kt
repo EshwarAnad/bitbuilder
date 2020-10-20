@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.ir.values
 
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.Context
 import io.vexelabs.bitbuilder.llvm.ir.Module
 import io.vexelabs.bitbuilder.llvm.ir.Type

@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.ir.instructions.traits
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
 import io.vexelabs.bitbuilder.llvm.ir.BasicBlock
 import org.bytedeco.llvm.LLVM.LLVMValueRef
 import org.bytedeco.llvm.global.LLVM

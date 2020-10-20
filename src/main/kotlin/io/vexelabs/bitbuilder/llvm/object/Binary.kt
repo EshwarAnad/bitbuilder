@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.`object`
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
 import org.bytedeco.llvm.LLVM.LLVMBinaryRef
 import org.bytedeco.llvm.global.LLVM
 

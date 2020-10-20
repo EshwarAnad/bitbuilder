@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.target
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ForeignEnum
+import io.vexelabs.bitbuilder.internal.contracts.ForeignEnum
 import org.bytedeco.llvm.global.LLVM
 
 public enum class CodeModel(public override val value: Int) : ForeignEnum<Int> {

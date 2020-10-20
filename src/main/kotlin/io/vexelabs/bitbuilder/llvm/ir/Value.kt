@@ -1,7 +1,7 @@
 package io.vexelabs.bitbuilder.llvm.ir
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.values.FunctionValue
 import org.bytedeco.javacpp.SizeTPointer
 import org.bytedeco.llvm.LLVM.LLVMValueRef

@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.ir.types
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Unreachable
+import io.vexelabs.bitbuilder.internal.contracts.Unreachable
 import io.vexelabs.bitbuilder.llvm.ir.Context
 import io.vexelabs.bitbuilder.llvm.ir.Type
 import io.vexelabs.bitbuilder.llvm.ir.TypeKind

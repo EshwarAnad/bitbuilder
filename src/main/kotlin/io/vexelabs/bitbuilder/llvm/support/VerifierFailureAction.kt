@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.support
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ForeignEnum
+import io.vexelabs.bitbuilder.internal.contracts.ForeignEnum
 import org.bytedeco.llvm.global.LLVM
 
 public enum class VerifierFailureAction(public override val value: Int) :

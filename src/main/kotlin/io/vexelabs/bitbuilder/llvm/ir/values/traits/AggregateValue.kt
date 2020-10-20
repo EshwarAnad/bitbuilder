@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.ir.values.traits
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
 import io.vexelabs.bitbuilder.llvm.ir.Value
 import io.vexelabs.bitbuilder.llvm.ir.values.constants.ConstantInt
 import org.bytedeco.javacpp.PointerPointer

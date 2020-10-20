@@ -1,7 +1,7 @@
 package io.vexelabs.bitbuilder.llvm.ir.values
 
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
-import io.vexelabs.bitbuilder.llvm.internal.util.toLLVMBool
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.util.toLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.ThreadLocalMode
 import io.vexelabs.bitbuilder.llvm.ir.Value
 import io.vexelabs.bitbuilder.llvm.ir.values.traits.DebugLocationValue

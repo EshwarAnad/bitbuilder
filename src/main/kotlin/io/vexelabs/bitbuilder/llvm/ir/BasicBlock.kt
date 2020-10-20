@@ -1,8 +1,8 @@
 package io.vexelabs.bitbuilder.llvm.ir
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.contracts.PointerIterator
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Validatable
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.PointerIterator
+import io.vexelabs.bitbuilder.internal.contracts.Validatable
 import io.vexelabs.bitbuilder.llvm.ir.types.LabelType
 import io.vexelabs.bitbuilder.llvm.ir.values.FunctionValue
 import org.bytedeco.llvm.LLVM.LLVMBasicBlockRef

@@ -1,4 +1,4 @@
-package io.vexelabs.bitbuilder.llvm.internal.contracts
+package io.vexelabs.bitbuilder.internal.contracts
 
 /**
  * Enum to wrap any enum classes.

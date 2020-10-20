@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.ir.callbacks
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Callback
+import io.vexelabs.bitbuilder.internal.contracts.Callback
 import io.vexelabs.bitbuilder.llvm.ir.DiagnosticInfo
 import org.bytedeco.javacpp.Pointer
 import org.bytedeco.llvm.LLVM.LLVMDiagnosticHandler

@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.support
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
 import io.vexelabs.bitbuilder.llvm.ir.Context
 import io.vexelabs.bitbuilder.llvm.ir.Module
 import org.bytedeco.javacpp.BytePointer

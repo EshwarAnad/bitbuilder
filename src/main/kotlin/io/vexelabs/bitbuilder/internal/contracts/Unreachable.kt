@@ -1,4 +1,4 @@
-package io.vexelabs.bitbuilder.llvm.internal.contracts
+package io.vexelabs.bitbuilder.internal.contracts
 
 /**
  * Indicates that a code block is unreachable

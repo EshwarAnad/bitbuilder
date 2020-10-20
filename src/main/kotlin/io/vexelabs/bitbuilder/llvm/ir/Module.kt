@@ -2,10 +2,10 @@ package io.vexelabs.bitbuilder.llvm.ir
 
 import io.vexelabs.bitbuilder.llvm.executionengine.ExecutionEngine
 import io.vexelabs.bitbuilder.llvm.executionengine.MCJITCompilerOptions
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ContainsReference
-import io.vexelabs.bitbuilder.llvm.internal.contracts.Disposable
-import io.vexelabs.bitbuilder.llvm.internal.contracts.PointerIterator
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.contracts.ContainsReference
+import io.vexelabs.bitbuilder.internal.contracts.Disposable
+import io.vexelabs.bitbuilder.internal.contracts.PointerIterator
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.types.FunctionType
 import io.vexelabs.bitbuilder.llvm.ir.types.PointerType
 import io.vexelabs.bitbuilder.llvm.ir.types.StructType

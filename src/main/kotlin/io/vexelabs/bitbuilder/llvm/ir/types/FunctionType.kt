@@ -1,8 +1,8 @@
 package io.vexelabs.bitbuilder.llvm.ir.types
 
-import io.vexelabs.bitbuilder.llvm.internal.util.fromLLVMBool
-import io.vexelabs.bitbuilder.llvm.internal.util.map
-import io.vexelabs.bitbuilder.llvm.internal.util.toLLVMBool
+import io.vexelabs.bitbuilder.internal.util.fromLLVMBool
+import io.vexelabs.bitbuilder.internal.util.map
+import io.vexelabs.bitbuilder.internal.util.toLLVMBool
 import io.vexelabs.bitbuilder.llvm.ir.Type
 import org.bytedeco.javacpp.PointerPointer
 import org.bytedeco.llvm.LLVM.LLVMTypeRef

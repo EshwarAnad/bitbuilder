@@ -1,4 +1,4 @@
-package io.vexelabs.bitbuilder.llvm.internal.contracts
+package io.vexelabs.bitbuilder.internal.contracts
 
 /**
  * This hints that the implementing class may have a lifetime which should be

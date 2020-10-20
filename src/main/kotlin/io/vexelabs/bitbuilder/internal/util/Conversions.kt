@@ -1,4 +1,4 @@
-package io.vexelabs.bitbuilder.llvm.internal.util
+package io.vexelabs.bitbuilder.internal.util
 
 /**
  * Util function to convert kotlin [Int] to [Boolean]

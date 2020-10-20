@@ -4,7 +4,7 @@ package io.vexelabs.bitbuilder.llvm.ir
  * This file contains a bunch of enum types LLVM uses to work with its IR
  */
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.ForeignEnum
+import io.vexelabs.bitbuilder.internal.contracts.ForeignEnum
 import org.bytedeco.llvm.global.LLVM
 
 public enum class ThreadLocalMode(public override val value: Int) :

@@ -1,6 +1,6 @@
 package io.vexelabs.bitbuilder.llvm.ir.values
 
-import io.vexelabs.bitbuilder.llvm.internal.contracts.PointerIterator
+import io.vexelabs.bitbuilder.internal.contracts.PointerIterator
 import org.bytedeco.llvm.LLVM.LLVMValueRef
 import org.bytedeco.llvm.global.LLVM
 
